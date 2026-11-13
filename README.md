@@ -1,5 +1,7 @@
 # Customer Churn Predictor (ANN + Streamlit)
 
+Live link: https://annprojectchurnpredictor.streamlit.app/
+
 Predicts whether a bank customer will leave, using a Keras ANN (13 > 16 > 8 > 1) and a Streamlit web app.
 
 ## Structure
